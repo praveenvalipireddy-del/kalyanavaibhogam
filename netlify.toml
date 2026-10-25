@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Always serve the latest product list (n8n updates this file)
+[[headers]]
+  for = "/products.json"
+  [headers.values]
+    Cache-Control = "no-cache"

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "kudakalu",
+    "title": "Designer Kobbari Kudakalu (Ceremonial Coconut Haldi-Kumkum Bowls)",
+    "category": "pots",
+    "categoryName": "Decorated Pots & Coconut Crafts",
+    "price": 250,
+    "priceNote": "per pair",
+    "badge": "Custom Colors (₹250)",
+    "description": "Handcrafted dried coconut halves (Kudakalu) decorated with rich silk fabrics, lustrous concentric pearl rings, and golden zardozi flowers. Essential for Pellikuthuru, Varalakshmi Pooja, and Haldi ceremonies.",
+    "occasion": [
+      "Wedding",
+      "Pellikuthuru",
+      "Varalakshmi Pooja",
+      "Housewarming"
+    ],
+    "images": [
+      {
+        "color": "Royal Blue & Gold",
+        "url": "assets/products/item_31.jpeg",
+        "thumb": "#1E3A8A"
+      },
+      {
+        "color": "Auspicious Crimson Red",
+        "url": "assets/products/item_33.jpeg",
+        "thumb": "#991B1B"
+      },
+      {
+        "color": "Emerald Leaf Green",
+        "url": "assets/products/item_34.jpeg",
+        "thumb": "#065F46"
+      },
+      {
+        "color": "Magenta Raw Silk",
+        "url": "assets/products/item_35.jpeg",
+        "thumb": "#9D174D"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "kalash_pots",
+    "title": "Decorated Pellikuthuru & Kalash Ritual Pots (Set with Coconuts)",
+    "category": "pots",
+    "categoryName": "Decorated Pots & Coconut Crafts",
+    "price": 350,
+    "priceNote": "per set",
+    "badge": "Best Seller (₹350)",
+    "description": "Hand-painted traditional earthen pots adorned with sparkling kundan stones, mirror work, and auspicious lace borders. Includes matching decorated coconut toppers.",
+    "occasion": [
+      "Wedding",
+      "Pellikuthuru",
+      "Pooja",
+      "Housewarming"
+    ],
+    "images": [
+      {
+        "color": "Royal Blue & Red",
+        "url": "assets/products/item_4.jpeg",
+        "thumb": "#1E40AF"
+      },
+      {
+        "color": "Rani Pink & Sky Blue",
+        "url": "assets/products/item_6.jpeg",
+        "thumb": "#BE185D"
+      },
+      {
+        "color": "Emerald Green & Maroon",
+        "url": "assets/products/item_7.jpeg",
+        "thumb": "#047857"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "floral_set",
+    "title": "Haldi & Mehendi Sunflower Floral Jewellery Bridal Set",
+    "category": "floral",
+    "categoryName": "Floral & Mehendi Jewellery",
+    "price": 350,
+    "priceNote": "complete bridal set",
+    "badge": "Special Price (₹350)",
+    "description": "Complete handcrafted bridal floral jewellery set in turmeric yellow & crimson maroon flowers. Includes Pearl Haar Necklace, Maang Tikka, Floral Earrings, and Haathphool Bangles with pearl drops.",
+    "occasion": [
+      "Haldi",
+      "Mehendi",
+      "Baby Shower"
+    ],
+    "images": [
+      {
+        "color": "Turmeric Yellow & Maroon",
+        "url": "assets/products/item_3.jpeg",
+        "thumb": "#EAB308"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "hair_veni_pollen",
+    "title": "Handmade Floral Pollen Bridal Hair Juda Veni / Brooch",
+    "category": "garlands",
+    "categoryName": "Varmalas & Hair Gajras",
+    "price": 150,
+    "priceNote": "each",
+    "badge": "Hair Accessory (₹150)",
+    "description": "Intricate metallic pollen bud bridal hair accessory with green leaf base. Beautifully accents bridal hair braids, traditional french rolls, and dance hair buns.",
+    "occasion": [
+      "Wedding",
+      "Reception",
+      "Bharatanatyam",
+      "Sangeet"
+    ],
+    "images": [
+      {
+        "color": "Shimmering Gold",
+        "url": "assets/products/item_19.jpeg",
+        "thumb": "#D4AF37"
+      },
+      {
+        "color": "Crimson Red",
+        "url": "assets/products/item_21.jpeg",
+        "thumb": "#B91C1C"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "rose_gajra_pack",
+    "title": "Velvet Rose & Jasmine Bridal Hair Gajra Set (Pack of 6)",
+    "category": "garlands",
+    "categoryName": "Varmalas & Hair Gajras",
+    "price": 300,
+    "priceNote": "pack of 6 (₹50 each)",
+    "badge": "Pack of 6 (₹300)",
+    "description": "Assorted vibrant magenta, pastel pink, and red velvet rose floral hair bun rings with white jasmine buds. Soft, reusable, and non-wilting.",
+    "occasion": [
+      "Haldi",
+      "Mehendi",
+      "Sangeet",
+      "Family Functions"
+    ],
+    "images": [
+      {
+        "color": "Assorted Rose Colors",
+        "url": "assets/products/item_20.jpeg",
+        "thumb": "#E11D48"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "varmala_satin_pairs",
+    "title": "Royal Satin Ribbon Varmala & Wedding Garland Pair",
+    "category": "garlands",
+    "categoryName": "Varmalas & Hair Gajras",
+    "price": 850,
+    "priceNote": "per pair (2 garlands)",
+    "badge": "Wedding Pair",
+    "description": "Handcrafted lightweight satin ribbon flower garlands with golden zari balls and pearl accents. Feather-light for bride and groom during reception and wedding rituals.",
+    "occasion": [
+      "Wedding",
+      "Reception",
+      "Engagement",
+      "Anniversary"
+    ],
+    "images": [
+      {
+        "color": "Sunset Orange & Magenta Pair (₹850)",
+        "url": "assets/products/item_23.jpeg",
+        "thumb": "#EA580C"
+      },
+      {
+        "color": "Bridal Magenta Pink & Gold Pair (₹790)",
+        "url": "assets/products/item_24.jpeg",
+        "thumb": "#DB2777"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "royal_brass_thali",
+    "title": "Royal Gold Kundan & Pearl Aarti Thali & Kalash Set",
+    "category": "thalis",
+    "categoryName": "Designer Thalis & Platters",
+    "price": 1250,
+    "priceNote": "complete thali & kalash",
+    "badge": "Royal Brass",
+    "description": "Luxury polished brass ceremonial thali adorned with multi-tier pearl beads, sparkling kundan stones, and matching designer brass Kalash lota. Ideal for Welcome Aarti and Ring Ceremony.",
+    "occasion": [
+      "Wedding",
+      "Engagement",
+      "Pooja"
+    ],
+    "images": [
+      {
+        "color": "Royal Brass & Pearls",
+        "url": "assets/products/item_8.jpeg",
+        "thumb": "#D4AF37"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "brass_kalash_kudaka_platter",
+    "title": "Embossed Brass Kalash with Pearl Kundan & Kudaka Platter",
+    "category": "thalis",
+    "categoryName": "Designer Thalis & Platters",
+    "price": 1400,
+    "priceNote": "complete 4-piece set",
+    "badge": "Heritage Brass",
+    "description": "Heavy golden brass Kalash pot paired with two handcrafted hand-painted & pearl studded half-coconut (Kudaka) Haldi-Kumkum containers on a matching royal brass platter.",
+    "occasion": [
+      "Wedding",
+      "Housewarming",
+      "Varalakshmi Pooja"
+    ],
+    "images": [
+      {
+        "color": "Gold & Royal Blue Kudakalu",
+        "url": "assets/products/item_10.jpeg",
+        "thumb": "#CA8A04"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "heart_saree_platter",
+    "title": "Heart-Shaped Designer Wedding Saree & Trousseau Platter",
+    "category": "thalis",
+    "categoryName": "Designer Thalis & Platters",
+    "price": 650,
+    "priceNote": "per platter",
+    "badge": "Bridal Trousseau",
+    "description": "Heart-shaped luxury golden textured platter lined with red raw silk piping and floral crystal brooch for bridal saree, wedding jewellery, and gift display.",
+    "occasion": [
+      "Wedding",
+      "Engagement",
+      "Trousseau Packing"
+    ],
+    "images": [
+      {
+        "color": "Gold & Crimson Red",
+        "url": "assets/products/item_11.jpeg",
+        "thumb": "#DC2626"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "bamboo_aarti_tray",
+    "title": "Traditional Handcrafted Bamboo Aarti Platter",
+    "category": "thalis",
+    "categoryName": "Designer Thalis & Platters",
+    "price": 450,
+    "priceNote": "per platter",
+    "badge": "Eco-Friendly",
+    "description": "Intricately hand-woven traditional bamboo ceremonial platter with golden metallic foil base and auspicious green decorative lace border. Perfect for Pellikuthuru and Seemantham rituals.",
+    "occasion": [
+      "Wedding",
+      "Pooja",
+      "Haldi"
+    ],
+    "images": [
+      {
+        "color": "Natural Bamboo & Gold",
+        "url": "assets/products/item_1.jpeg",
+        "thumb": "#B45309"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "silver_chowki",
+    "title": "Royal Embossed Silver Foil Wedding Chowki (Pooja Peeta)",
+    "category": "chowki",
+    "categoryName": "Royal Wedding Chowki & Peeta",
+    "price": 200,
+    "priceNote": "per stool",
+    "badge": "Best Value (₹200)",
+    "description": "Traditional square wooden stool wrapped with intricate embossed floral silver metal foil. Used for Pooja rituals, Ganapathi puja, and ceremonial bridal seating.",
+    "occasion": [
+      "Pooja",
+      "Wedding",
+      "Housewarming"
+    ],
+    "images": [
+      {
+        "color": "Silver Foil (Top & Side Views)",
+        "url": "assets/products/item_15.jpeg",
+        "thumb": "#9CA3AF"
+      },
+      {
+        "color": "Side Profile & Legs",
+        "url": "assets/products/item_13.jpeg",
+        "thumb": "#D1D5DB"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "peacock_chowki",
+    "title": "Royal Peacock Embossed Wedding Chowki (Pelli Peeta)",
+    "category": "chowki",
+    "categoryName": "Royal Wedding Chowki & Peeta",
+    "price": 1100,
+    "priceNote": "per stool",
+    "badge": "Hand Embossed",
+    "description": "Magnificent ceremonial wooden stool featuring golden meenakari foil work with vibrant emerald and ruby colored peacock medallion. Used for Pelli Peeta rituals and Ganapathi Pooja.",
+    "occasion": [
+      "Wedding",
+      "Pooja",
+      "Housewarming"
+    ],
+    "images": [
+      {
+        "color": "Golden Peacock Meenakari",
+        "url": "assets/products/item_16.jpeg",
+        "thumb": "#D97706"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "stone_rolu",
+    "title": "Traditional Stone Grinder (Rolu) for Wedding Turmeric Rituals",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 850,
+    "priceNote": "sacred stone set",
+    "badge": "Pasupu Kotadam",
+    "description": "Sacred hand-carved stone mortar grinder (Rolu / Gandham Rallu) used for traditional wedding Haldi / Pasupu Kotadam ceremonies.",
+    "occasion": [
+      "Wedding",
+      "Haldi Rituals"
+    ],
+    "images": [
+      {
+        "color": "Natural Grey Granite Stone",
+        "url": "assets/products/item_27.jpeg",
+        "thumb": "#6B7280"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "telugu_adda_thera",
+    "title": "Subhamasthu Telugu Wedding Terasila (Adda Thera)",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 490,
+    "priceNote": "per piece",
+    "badge": "Sacred Ritual",
+    "description": "Traditional printed silk-satin wedding partition cloth (Adda Thera / Terasila) inscribed with 'à°¶à±à°­à°®à°¸à±à°¤à±' and auspicious temple floral borders held before Jeelakarra Bellam.",
+    "occasion": [
+      "Wedding"
+    ],
+    "images": [
+      {
+        "color": "Traditional Cream & Red",
+        "url": "assets/products/item_14.jpeg",
+        "thumb": "#FEF08A"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "silver_payal_set",
+    "title": "Rangoli Traditional Silver-Tone Payal (Anklet Collection - 4 Pairs)",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 320,
+    "priceNote": "card of 4 pairs",
+    "badge": "Silver Finish (4 Pairs)",
+    "description": "Card of 4 distinct handcrafted German silver / white metal ankle chains (Payal / Kolusu) with colorful meenakari bead accents and sweet chiming bells (Ghungroo).",
+    "occasion": [
+      "Wedding",
+      "Festivals",
+      "Daily Wear"
+    ],
+    "images": [
+      {
+        "color": "Silver with Multicolor Beads",
+        "url": "assets/products/item_28.jpeg",
+        "thumb": "#E5E7EB"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "betel_nut_cutter",
+    "title": "Heritage Chrome Traditional Betel Nut Cutter (Sarota)",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 320,
+    "priceNote": "per piece",
+    "badge": "Ritual Essential",
+    "description": "Polished heavy-duty traditional steel/brass finish betel nut cutter (Sarota/Kathi) required for traditional Hindu and South Indian wedding ritual ceremonies.",
+    "occasion": [
+      "Wedding",
+      "Rituals"
+    ],
+    "images": [
+      {
+        "color": "Chrome Silver Finish",
+        "url": "assets/products/item_2.jpeg",
+        "thumb": "#9CA3AF"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "kundan_rakhi_boxes",
+    "title": "Kundan & American Diamond Wedding Rakhi / Bracelet Gift Sets",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 450,
+    "priceNote": "box of 8 bracelets",
+    "badge": "Box of 8 (P.V.S.)",
+    "description": "Luxury gold-plated chain bracelets with sparkling kundan and american diamond centrepieces presented in individual velvet cases. Perfect wedding return gifts.",
+    "occasion": [
+      "Wedding",
+      "Raksha Bandhan",
+      "Gifting"
+    ],
+    "images": [
+      {
+        "color": "Kundan Gold Plated (Box of 8)",
+        "url": "assets/products/item_29.jpeg",
+        "thumb": "#F59E0B"
+      },
+      {
+        "color": "American Diamond & Ruby (Box of 8)",
+        "url": "assets/products/item_32.jpeg",
+        "thumb": "#BE123C"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "kumkum_boxes_pack",
+    "title": "Kundan & Pearl Embellished Kumkum Boxes (Pack of 12)",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 600,
+    "priceNote": "pack of 12 pieces",
+    "badge": "Return Gifts (12 Pcs)",
+    "description": "Bulk pack of 12 miniature brass Kumkum / Sindoor / Haldi boxes studded with colorful kundan stones and pearl rings. Ideal wedding return gift for guests.",
+    "occasion": [
+      "Wedding",
+      "Varalakshmi Vratham",
+      "Navratri",
+      "Pooja"
+    ],
+    "images": [
+      {
+        "color": "Multicolor Kundan Brass",
+        "url": "assets/products/item_30.jpeg",
+        "thumb": "#D97706"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "bridal_chunri_veil",
+    "title": "Rani Pink Net Bridal Chunri / Veil with Gold Zari Scallop Border",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 450,
+    "priceNote": "per chunri",
+    "badge": "Gold Zari",
+    "description": "Graceful hot pink soft net dupatta / chunri decorated with gold foil butties and intricate scalloped metallic lace. Used for Mata ki Chowki, Bridal Chadar, or Phoolon ki Chadar.",
+    "occasion": [
+      "Wedding",
+      "Navratri",
+      "Pooja"
+    ],
+    "images": [
+      {
+        "color": "Rani Pink & Gold Scallop",
+        "url": "assets/products/item_17.jpeg",
+        "thumb": "#BE185D"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "trousseau_boxes_stacked",
+    "title": "Banarasi Brocade & Woven Bamboo Wedding Trousseau Boxes",
+    "category": "boxes",
+    "categoryName": "Trousseau & Gift Boxes",
+    "price": 490,
+    "priceNote": "starting price",
+    "badge": "Royal Trousseau",
+    "description": "Natural hand-woven bamboo boxes paired with gold-butta red banarasi brocade shagun gift boxes with silk fringe tassels and gota patti borders.",
+    "occasion": [
+      "Wedding",
+      "Trousseau",
+      "Gifting"
+    ],
+    "images": [
+      {
+        "color": "Red Brocade & Bamboo Basket",
+        "url": "assets/products/item_22.jpeg",
+        "thumb": "#DC2626"
+      },
+      {
+        "color": "3-Tier Stacked Banarasi Silk Boxes (₹990)",
+        "url": "assets/products/item_26.jpeg",
+        "thumb": "#047857"
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "shagun_net_basket",
+    "title": "Festive Shagun Net Gift Packing & Fruit Baskets",
+    "category": "boxes",
+    "categoryName": "Trousseau & Gift Boxes",
+    "price": 280,
+    "priceNote": "per basket",
+    "badge": "Gift Special",
+    "description": "Carved lattice platter enclosed with drawstring sheer red organza veil. Perfect for dry fruit gifting, saree presentation, and wedding shagun hampers.",
+    "occasion": [
+      "Wedding",
+      "Festivals",
+      "Gifting"
+    ],
+    "images": [
+      {
+        "color": "Red Organza Drawstring Platter",
+        "url": "assets/products/item_9.jpeg",
+        "thumb": "#EF4444"
+      },
+      {
+        "color": "Yellow & Pink Lotus Fruit Baskets",
+        "url": "assets/products/item_12.jpeg",
+        "thumb": "#FACC15"
+      }
+    ],
+    "inStock": true
+  }
+]
