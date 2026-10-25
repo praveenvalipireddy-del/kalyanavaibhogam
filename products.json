@@ -1,5 +1,27 @@
 [
   {
+    "id": "stone_tiragali_hand_grinder_mvoc2xtg",
+    "title": "Stone Tiragali Hand Grinder",
+    "category": "accessories",
+    "categoryName": "Bridal Accessories & Silver",
+    "price": 890,
+    "priceNote": "per piece",
+    "badge": "New Arrival (₹890)",
+    "description": "Hand-carved stone grinder for traditional Pasupu Kotadam and wedding rituals.",
+    "occasion": [
+      "Wedding",
+      "Haldi Rituals"
+    ],
+    "images": [
+      {
+        "color": "Natural Grey Stone",
+        "url": "assets/products/stone_tiragali_hand_grinder_mvoc2xtg.jpg",
+        "thumb": "#D4AF37"
+      }
+    ],
+    "inStock": true
+  },
+  {
     "id": "kudakalu",
     "title": "Designer Kobbari Kudakalu (Ceremonial Coconut Haldi-Kumkum Bowls)",
     "category": "pots",
