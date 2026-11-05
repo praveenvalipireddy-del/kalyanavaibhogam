@@ -1,5 +1,26 @@
 [
   {
+    "id": "pot_mw38vvac",
+    "title": "pot",
+    "category": "pots",
+    "categoryName": "Decorated Pots & Coconut Crafts",
+    "price": 100,
+    "priceNote": "each",
+    "badge": "New Arrival (₹100)",
+    "description": "pot",
+    "occasion": [
+      "wedding"
+    ],
+    "images": [
+      {
+        "color": "As shown",
+        "url": "assets/products/pot_mw38vvac.jpg",
+        "thumb": "#D4AF37"
+      }
+    ],
+    "inStock": true
+  },
+  {
     "id": "pot_mw38qmny",
     "title": "POT",
     "category": "pots",
