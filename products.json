@@ -1,5 +1,26 @@
 [
   {
+    "id": "pot_mw38qmny",
+    "title": "POT",
+    "category": "pots",
+    "categoryName": "Decorated Pots & Coconut Crafts",
+    "price": 90,
+    "priceNote": "each",
+    "badge": "New Arrival (₹90)",
+    "description": "pot for weddings",
+    "occasion": [
+      "wedding"
+    ],
+    "images": [
+      {
+        "color": "red",
+        "url": "assets/products/pot_mw38qmny.jpg",
+        "thumb": "#D4AF37"
+      }
+    ],
+    "inStock": true
+  },
+  {
     "id": "stone_tiragali_hand_grinder_mvoc2xtg",
     "title": "Stone Tiragali Hand Grinder",
     "category": "accessories",
